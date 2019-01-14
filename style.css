@@ -1,0 +1,60 @@
+.heading{
+text-align: center;
+background-color: lightgreen;
+color: white;
+opacity: 0.75;
+width: 1020;
+}
+.directory{
+text-align: center;
+opacity: 1;
+font-size: 30px;
+background-repeat:no-repeat;
+background-size:200px 100px;
+background-color: lightgreen;
+color: white;
+}
+body{
+background-color: skyblue;
+font-family: Futura;
+}
+a{
+text-decoration: none;
+color: white;
+}
+ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+font-family: Futura;
+}
+.aboutmepost{
+background-color: white;
+font-size: 16px;
+}
+.aboutmepostpic{
+display: block;
+  margin-left: auto;
+  margin-right: auto;
+width: 40%
+}
+img{
+border-radius: 200px;
+}
+a{
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+display: block;
+}
+.specialties{
+text-align: center;
+}
+#oo{
+text-align: center;
+}
+/*(The code in this comment currently does not work)
+.bm{
+text-align: right !important;
+}
+*/
