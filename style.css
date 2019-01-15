@@ -53,6 +53,10 @@ text-align: center;
 #oo{
 text-align: center;
 }
+* {
+  margin: 0;
+  padding: 0;
+}
 /*(The code in this comment currently does not work)
 .bm{
 text-align: right !important;
